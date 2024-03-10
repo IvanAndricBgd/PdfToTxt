@@ -12,6 +12,8 @@ with open('/Users/ivan/BOT/pks bot docs/wetransfer_bahreinengleski-pdf_2024-01-1
     # Print the extracted text
         print(text)
 
+# poslato na github
+
 
 # Open a file in write mode
         with open("output.txt", "w") as f:
